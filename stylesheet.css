@@ -21,11 +21,11 @@ img {
 .important {
     background-color: gold;
     font-weight: bold;
+    padding: 10px;
     margin-top: 20px;
     margin-bottom: 20px;
     margin-left: 10px;
     margin-right: 10px;
-    padding: 50px;
 }
 
 a:hover {
