@@ -27,3 +27,7 @@ a:hover {
     text-decoration: underline;
 }
 
+.photo {
+    width: 200px;
+    height: 500px;
+}
