@@ -3,6 +3,11 @@ p {
   font-size: 18px;
 }
 
+img {
+  width: 200px;
+  height: auto;
+}
+
 #header {
     background-color: bisque;
     padding: 20px;
@@ -27,7 +32,3 @@ a:hover {
     text-decoration: underline;
 }
 
-img {
-  width: 200px;
-  height: auto;
-}
